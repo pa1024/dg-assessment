@@ -13,7 +13,8 @@ yarn start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Use chrome dev tools to view in mobile resolution.
 
 ## Deploy on Github Pages
 
-The app is deployed in Github Pages (https://pa1024.github.io/dg-assessment)
+The app is deployed in Github Pages [https://pa1024.github.io/dg-assessment]
