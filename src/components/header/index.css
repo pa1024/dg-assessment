@@ -10,6 +10,19 @@
   z-index: 99;
 }
 
+div.title {
+  margin:0;
+    font-family: 'Titillium Web', sans-serif;
+    position: absolute;
+    left: 60px;
+    font-size: xx-large;
+    top: 10px;
+    width: calc(100% - 150px);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 @media screen and (max-width: 600px) {
   div.title {
     margin:0;
