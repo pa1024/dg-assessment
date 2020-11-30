@@ -1,0 +1,22 @@
+body, html { overflow-x:hidden; }
+
+.App{
+  display: block;
+  padding-bottom: 120px;
+  background-color: black;
+  height: 100%;
+  width: 100%;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.hidden {
+  display: hidden;
+}
+
+.searchbar {
+  min-width: 300px;
+  border: 1px solid white;
+  position: relative;
+  top: 95px;
+  z-index: 90;
+}
