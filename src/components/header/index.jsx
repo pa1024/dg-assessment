@@ -11,8 +11,8 @@ import 'react-toastify/dist/ReactToastify.css';
 
 class Header extends React.Component {
   
-  notifyNoBack = () => {
-    toast("Back is not Allowed!");
+  showToast = () => {
+    toast("No back action");
   }
 
   render() {
@@ -23,7 +23,7 @@ class Header extends React.Component {
             className="backButton" 
             src={BackAsset} 
             alt="back" 
-            onClick={this.notifyNoBack}
+            onClick={this.showToast}
             style ={{width: '30px',position: 'absolute',left:'10px',top:'20px'}}></img>
           </div>
           <div>
@@ -42,7 +42,6 @@ class Header extends React.Component {
   }
 
   componentDidMount() {
-    // console.log("Component rendered")
   }
 }
 
