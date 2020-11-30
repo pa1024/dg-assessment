@@ -2,7 +2,7 @@
   "name": "assessment",
   "version": "1.0.0",
   "private": true,
-  "homepage": "",
+  "homepage": "http://pa1024.github.io/dg-assessment",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

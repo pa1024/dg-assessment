@@ -16,4 +16,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Deploy on Github Pages
 
-The app is deployed in Github Pages ()
+The app is deployed in Github Pages (http://pa1024.github.io/dg-assessment)
